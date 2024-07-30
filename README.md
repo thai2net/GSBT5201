@@ -1,4 +1,4 @@
-﻿## [การพัฒนาโปรแกรมบนเว็บสำหรับงานธุรกิจ](README.md)
+﻿## [GSBT5201: Business Intelligence for Digital Business](README.md)
 #### - [CH01 - The Business Demand for Data, Information, and Analytics](Chapter01/README.md)
 #### - [CH02 - Justifying Business Intelligence (BI)](Chapter02/README.md)
 #### - [CH03 - Defining Requirements—Business, Data, and Quality](Chapter03/README.md)
