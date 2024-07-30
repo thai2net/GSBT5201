@@ -15,4 +15,4 @@
 #### - [CH14 - BI Implementation Best Practices](Chapter14/README.md)
 #### - [CH15 - Advanced BI Techniques](Chapter15/README.md)
 #### - [CH16 - Governance and Compliance in Business Intelligence (BI)](Chapter16/README.md)
-#### - [CH17 - The Future of Business Intelligence](Chapter17/README.md)
+#### - [CH17 - The Future of Business Intelligence (AL-ML Workshop)](Chapter17/README.md)
